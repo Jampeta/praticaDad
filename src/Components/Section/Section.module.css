@@ -1,0 +1,43 @@
+.titulo{
+    font-family: sans-serif;
+}
+
+.card{
+    background-color: red;
+    color: white;
+    border-radius: 4px;
+    font-family: sans-serif;
+    text-align: center;
+    padding: 6px;
+    width: 50px;
+}
+
+.divisona{
+    display: flex;
+}
+
+.subDiv{
+    background-color: white;
+    border-radius: 10px;
+    width: 350px;
+    height: 150px;
+    margin-top: 25px;
+    margin-right: 55px;
+}
+
+.infos{
+    background-color: black;
+}
+
+.img{
+    width: 10px;
+    height: 10px;
+}
+
+.peso{
+    background-color: black;
+}
+
+.preco{
+    background-color: black;
+}
